@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Dashboard
 
 ## Overview
@@ -35,3 +36,6 @@ Feel free to fork this repository and submit pull requests for any enhancements 
 
 ## License
 This project is open-source and available for educational and analytical purposes.
+=======
+# Sales-data-Dashboard
+>>>>>>> origin/main
